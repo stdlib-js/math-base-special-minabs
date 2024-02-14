@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-minabs/tags). For example,
+
+```javascript
 import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@v0.2.0-esm/index.mjs';
 ```
 
@@ -104,7 +109,7 @@ v = minabs( NaN, 3.14 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@v0.2.0-esm/index.mjs';
+import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@esm/index.mjs';
 
 var x;
 var y;
