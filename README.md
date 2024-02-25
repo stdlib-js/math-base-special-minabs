@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@deno/mod.js';
+import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@v0.2.1-deno/mod.js';
 ```
 
 #### minabs( x, y )
@@ -99,7 +99,7 @@ v = minabs( NaN, 3.14 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@deno/mod.js';
+import minabs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-minabs@v0.2.1-deno/mod.js';
 
 var x;
 var y;
