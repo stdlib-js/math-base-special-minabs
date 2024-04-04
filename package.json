@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-minabs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Return the minimum absolute value.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
   "dependencies": {
     "@stdlib/math-base-napi-binary": "^0.2.1",
     "@stdlib/math-base-special-abs": "^0.2.1",
-    "@stdlib/math-base-special-min": "^0.2.1",
+    "@stdlib/math-base-special-min": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.1"
   },
   "devDependencies": {
